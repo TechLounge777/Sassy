@@ -1,0 +1,27 @@
+
+$colors: ( 
+    primary: #005DFF,
+    accent: #FF66BB
+         );
+
+body {
+    background-color: map-get($colors, primary);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+

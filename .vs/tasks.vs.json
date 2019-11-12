@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "zadanie-index",
+      "appliesTo": "index.html",
+      "type": "launch"
+    },
+    {
+      "taskName": "task-index",
+      "appliesTo": "index.html",
+      "type": "launch"
+    }
+  ]
+}
